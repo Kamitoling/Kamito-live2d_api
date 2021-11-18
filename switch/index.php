@@ -3,7 +3,6 @@ isset($_GET['id']) ? $modelId = (int)$_GET['id'] : exit('error');
 
 require '../tools/modelList.php';
 require '../tools/jsonCompatible.php';
-
 $modelList = new modelList();
 $jsonCompatible = new jsonCompatible();
 
