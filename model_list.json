@@ -1,13 +1,15 @@
 {
     "models": [
-        "Potion-Maker/Pio",
+       ["Potion-Maker/Pio",
         "Potion-Maker/Tia",
         "bilibili-live/22",
         "bilibili-live/33",
+       ],
         [
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"
         ],
+        "c003_14"
         [
             "HyperdimensionNeptunia/neptune_classic",
             "HyperdimensionNeptunia/nepnep",
@@ -30,7 +32,10 @@
             "HyperdimensionNeptunia/histoire",
             "HyperdimensionNeptunia/histoirenohover"
         ],
-        "KantaiCollection/murakumo"
+        [
+          "KantaiCollection/murakumo"
+        ],
+      
     ],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
@@ -38,6 +43,7 @@
         "来自 Bilibili Live 的 22 哦 ~",
         "来自 Bilibili Live 的 33 的说",
         "Shizuku Talk ！这里是 Shizuku ~",
+        "123",
         "Nep! Nep! 超次元游戏：海王星 系列",
         "艦隊これくしょん / 叢雲(むらくも)"
     ]
