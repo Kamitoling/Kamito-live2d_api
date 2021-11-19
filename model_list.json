@@ -1,5 +1,6 @@
 {
     "models": [
+        "umaru",
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
         "bilibili-live/22",
@@ -36,6 +37,7 @@
         "KantaiCollection/murakumo"
     ],
     "messages": [
+        "umare"
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
