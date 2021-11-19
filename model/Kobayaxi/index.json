@@ -27,7 +27,7 @@
 				"file": "motions/tap_body/haru_m_02.mtn"
 			}
 		],
-		"tap_head": [
+		"tap": [
 			{
 				"file": "motions/tap/haru_normal_01.mtn"
 			},
