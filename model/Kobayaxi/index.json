@@ -14,11 +14,14 @@
 	"pose":"pose.json",
 	"project_settings":"Kobayaxi.settings.json",
 	"name":"Kobayaxi",
-	"tap_body": {
+	"motions": {
+		"tap_body": {
 		"Idle": [
 			{
 				"sound": "voice/haru_normal_01.mp3"
 			}
 		]
 	}
+	}
+	
 }
