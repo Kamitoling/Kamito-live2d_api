@@ -26,17 +26,6 @@
 	                {
 				"file": "motions/tap_body/haru_m_02.mtn"
 			}
-		],
-		"tap": [
-			{
-				"file": "motions/tap/haru_normal_01.mtn"
-			},
-			{
-				"file": "motions/tap/haru_normal_02.mtn"
-			},
-			{
-				"file": "motions/tap/haru_normal_03.mtn"
-			}
 		]
 	}
 }
