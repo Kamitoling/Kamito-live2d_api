@@ -13,5 +13,10 @@
 	},
 	"pose":"pose.json",
 	"project_settings":"Kobayaxi.settings.json",
-	"name":"Kobayaxi"
+	"name":"Kobayaxi",
+	"motions": {
+	  "tap": [{
+	      "sound": "motions/tap/haru_normal_01.mp3"
+       }]
+	}
 }
