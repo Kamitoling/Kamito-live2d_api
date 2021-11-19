@@ -5,6 +5,11 @@
 		"Kobayaxi.2048/texture_00.png"
 	],
 	"physics":"physics.json",
+	"layout": {
+		"center_x": 0,
+		"center_y": -0.6,
+		"height": 2.5
+	],
 	"pose":"pose.json",
 	"project_settings":"Kobayaxi.settings.json",
 	"name":"Kobayaxi"
