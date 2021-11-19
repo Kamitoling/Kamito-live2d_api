@@ -8,7 +8,8 @@
 	"layout": {
 		"center_x": 0,
 		"center_y": -0.6,
-		"height": 2.5
+		"height": 4,
+		"width": 3
 	},
 	"pose":"pose.json",
 	"project_settings":"Kobayaxi.settings.json",
