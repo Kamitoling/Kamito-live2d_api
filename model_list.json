@@ -12,6 +12,11 @@
             "c003_14"
         ],
         [
+            "summonunits/summon_unit_80001/live2d",
+            "summonunits/summon_unit_80002/live2d",
+            "summonunits/summon_unit_80003/live2d",
+        ],
+        [
             "HyperdimensionNeptunia/neptune_classic",
             "HyperdimensionNeptunia/nepnep",
             "HyperdimensionNeptunia/neptune_santa",
@@ -42,6 +47,7 @@
         "来自 Bilibili Live 的 33 的说",
         "Shizuku Talk ！这里是 Shizuku ~",
         "123",
+        "你好呀~",
         "Nep! Nep! 超次元游戏：海王星 系列",
         "艦隊これくしょん / 叢雲(むらくも)"
     ]
