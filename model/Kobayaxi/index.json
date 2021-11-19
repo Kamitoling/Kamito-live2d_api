@@ -14,9 +14,11 @@
 	"pose":"pose.json",
 	"project_settings":"Kobayaxi.settings.json",
 	"name":"Kobayaxi",
-	"motions": {
-	  "tap": [{
-	      "sound": "motions/tap/haru_normal_01.mp3"
-       }]
+	"Motions": {
+		"Idle": [
+			{
+				"sound": "voice/haru_normal_01.mp3"
+			}
+		]
 	}
 }
