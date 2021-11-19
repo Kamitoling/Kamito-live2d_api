@@ -14,7 +14,7 @@
 	"pose":"pose.json",
 	"project_settings":"Kobayaxi.settings.json",
 	"name":"Kobayaxi",
-	"Motions": {
+	"flick_head": {
 		"Idle": [
 			{
 				"sound": "voice/haru_normal_01.mp3"
