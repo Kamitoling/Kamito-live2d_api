@@ -15,13 +15,10 @@
 	"project_settings":"Kobayaxi.settings.json",
 	"name":"Kobayaxi",
 	"motions": {
-		"tap_body": {
-		"Idle": [
+		"tap_body": [
 			{
 				"sound": "voice/haru_normal_01.mp3"
 			}
 		]
 	}
-	}
-	
 }
