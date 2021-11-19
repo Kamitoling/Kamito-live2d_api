@@ -17,7 +17,7 @@
 	"motions": {
 		"tap_body": [
 			{
-				"file": "motions/tap/haru_normal_02.mtn",
+				"file": "motions/tap_body/haru_m_03.mtn",
 				"sound": "voice/haru_normal_01.mp3"
 			},
 			{
