@@ -19,12 +19,6 @@
 			{
 				"file": "motions/tap_body/haru_m_03.mtn",
 				"sound": "voice/haru_normal_01.mp3"
-			},
-			{
-				"file": "motions/tap_body/haru_m_01.mtn"
-			},
-	                {
-				"file": "motions/tap_body/haru_m_02.mtn"
 			}
 		]
 	}
