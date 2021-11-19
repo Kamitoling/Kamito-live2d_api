@@ -1,4 +1,5 @@
 {
+  "version":"Sample 1.0.0",
   "model": "model.moc",
   "textures": [
     "model.2048/texture_00.png"
